@@ -110,3 +110,4 @@ print(lista_1 + lista2)
 krotka = tuple(liczby)
 print(krotka)
 print(liczby)
+
